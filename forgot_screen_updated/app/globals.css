@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.back_desktop {
+    background-image: url('../public/Forgot_desktop.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+   }
+   
